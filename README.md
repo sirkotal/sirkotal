@@ -4,3 +4,9 @@
 </div>
 
 ## University Projects Index (WIP)
+
+| Course Unit                  | Technologies |
+|------------------------|----------|
+| [CGRA](https://github.com/sirkotal/feup-cgra) | JavaScript |
+| [COMP](https://github.com/sirkotal/feup-comp) | Java, OLLIR, Jasmin |
+| [CPD](https://github.com/sirkotal/feup-cpd) | Java, Python, C++, Rust |
