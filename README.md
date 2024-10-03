@@ -10,3 +10,5 @@
 | [CGRA](https://github.com/sirkotal/feup-cgra) | JavaScript |
 | [COMP](https://github.com/sirkotal/feup-comp) | Java, OLLIR, Jasmin |
 | [CPD](https://github.com/sirkotal/feup-cpd) | Java, Python, C++, Rust |
+| [IA - One Pizza](https://github.com/sirkotal/one-pizza) | Python |
+| [IA - NASA Asteroid Classification](https://github.com/sirkotal/nasa-asteroid-classification) | Python |
