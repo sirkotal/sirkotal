@@ -5,10 +5,19 @@
 
 ## University Projects Index (WIP)
 
-| Course Unit                  | Technologies |
+| Course Unit                  | Languages |
 |------------------------|----------|
 | [CGRA](https://github.com/sirkotal/feup-cgra) | JavaScript |
-| [COMP](https://github.com/sirkotal/feup-comp) | Java, OLLIR, Jasmin |
+| [COMP](https://github.com/sirkotal/feup-comp) | Java |
 | [CPD](https://github.com/sirkotal/feup-cpd) | Java, Python, C++, Rust |
 | [IA - One Pizza](https://github.com/sirkotal/one-pizza) | Python |
 | [IA - NASA Asteroid Classification](https://github.com/sirkotal/nasa-asteroid-classification) | Python |
+| [FSI](https://github.com/sirkotal/feup-fsi) | Python, C |
+| [IADP](https://github.com/sirkotal/feup-iadp) | Python |
+| [IPC](https://github.com/sirkotal/feup-ipc) | - |
+| [LBAW](https://github.com/sirkotal/feup-lbaw) | PHP, JavaScript |
+| [PFL - Exercises](https://github.com/sirkotal/feup-pfl) | Prolog, Haskell |
+| [PFL - Bounce](https://github.com/sirkotal/bounce) | Prolog |
+| [PFL - Haskell Machine](https://github.com/sirkotal/haskell-machine) | Haskell |
+| [RCOM - Project 1](https://github.com/sirkotal/feup-rcom-1) | C |
+| [RCOM - Project 2](https://github.com/sirkotal/feup-rcom-2) | C |
