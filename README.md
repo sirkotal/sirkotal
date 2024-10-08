@@ -23,3 +23,5 @@
 | [RCOM - Project 2](https://github.com/sirkotal/feup-rcom-2) | C |
 | [DA - Railroad Network Management](https://github.com/sirkotal/leic-rnm) | C++ |
 | [DA - Travelling Salesman Problem](https://github.com/sirkotal/leic-tsp) | C++ |
+| [ESOF](https://github.com/sirkotal/linkpedia) | Dart, Gherkin |
+| [LCOM](https://github.com/sirkotal/feup-lcom) | C |
