@@ -21,3 +21,6 @@
 | [PFL - Haskell Machine](https://github.com/sirkotal/haskell-machine) | Haskell |
 | [RCOM - Project 1](https://github.com/sirkotal/feup-rcom-1) | C |
 | [RCOM - Project 2](https://github.com/sirkotal/feup-rcom-2) | C |
+| [DA - Exercises](https://github.com/sirkotal/feup-da) | C++ |
+| [DA - Railroad Network Management](https://github.com/sirkotal/leic-rnm) | C++ |
+| [DA - Travelling Salesman Problem](https://github.com/sirkotal/leic-tsp) | C++ |
