@@ -16,12 +16,14 @@
 | [IADP](https://github.com/sirkotal/feup-iadp) | Python |
 | [IPC](https://github.com/sirkotal/feup-ipc) | - |
 | [LBAW](https://github.com/sirkotal/feup-lbaw) | PHP, JavaScript |
-| [PFL - Exercises](https://github.com/sirkotal/feup-pfl) | Prolog, Haskell |
 | [PFL - Bounce](https://github.com/sirkotal/bounce) | Prolog |
 | [PFL - Haskell Machine](https://github.com/sirkotal/haskell-machine) | Haskell |
+| [PFL - Exercises](https://github.com/sirkotal/feup-pfl) | Prolog, Haskell |
 | [RCOM - Project 1](https://github.com/sirkotal/feup-rcom-1) | C |
 | [RCOM - Project 2](https://github.com/sirkotal/feup-rcom-2) | C |
 | [DA - Railroad Network Management](https://github.com/sirkotal/leic-rnm) | C++ |
 | [DA - Travelling Salesman Problem](https://github.com/sirkotal/leic-tsp) | C++ |
 | [ESOF](https://github.com/sirkotal/linkpedia) | Dart, Gherkin |
 | [LCOM](https://github.com/sirkotal/feup-lcom) | C |
+| [LTW - Better Ticket Saul](https://github.com/sirkotal/Better-Ticket-Saul) | PHP, JavaScript |
+| [LTW - Exercises](https://github.com/sirkotal/feup-ltw) | PHP, JavaScript |
