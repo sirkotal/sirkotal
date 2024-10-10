@@ -3,6 +3,8 @@
   <img height=180em src="https://github-readme-stats-d2bv.vercel.app/api/top-langs/?username=sirkotal&langs_count=3&hide=html&theme=tokyonight&show_icons=true&hide_border=true" />
 </div>
 
+<div align="center">
+
 ## University Projects Index (WIP)
 
 | Course Unit                  | Languages |
