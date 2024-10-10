@@ -27,3 +27,6 @@
 | [LCOM](https://github.com/sirkotal/feup-lcom) | C |
 | [LTW - Better Ticket Saul](https://github.com/sirkotal/Better-Ticket-Saul) | PHP, JavaScript |
 | [LTW - Exercises](https://github.com/sirkotal/feup-ltw) | PHP, JavaScript |
+| [BD](https://github.com/sirkotal/libertadores-db) | SQL |
+| [LDTS - Gradle Knights](https://github.com/sirkotal/Gradle-Knights) | Java |
+| [SO](https://github.com/sirkotal/operating-systems-project) | C |
