@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## University Projects Index (WIP)
+## University Projects Index
 
 | Course Unit                  | Languages |
 |------------------------|----------|
