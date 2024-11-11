@@ -9,6 +9,7 @@
 
 | Course Unit                  | Languages |
 |------------------------|----------|
+| [SDLE - ZMQ Labs](https://github.com/sirkotal/zmq-labs) | Rust |
 | [CGRA](https://github.com/sirkotal/feup-cgra) | JavaScript |
 | [COMP](https://github.com/sirkotal/feup-comp) | Java |
 | [CPD](https://github.com/sirkotal/feup-cpd) | Java, Python, C++, Rust |
