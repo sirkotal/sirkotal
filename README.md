@@ -9,7 +9,10 @@
 
 | Course Unit                  | Languages |
 |------------------------|----------|
+| [AC](https://github.com/sirkotal/feup-ac) | Python |
+| [SDLE - Local-First Shopping List](https://github.com/sirkotal/feup-sdle) | Scala |
 | [SDLE - ZMQ Labs](https://github.com/sirkotal/zmq-labs) | Rust |
+| [SGI](https://github.com/sirkotal/feup-sgi) | JavaScript |
 | [CGRA](https://github.com/sirkotal/feup-cgra) | JavaScript |
 | [COMP](https://github.com/sirkotal/feup-comp) | Java |
 | [CPD](https://github.com/sirkotal/feup-cpd) | Java, Python, C++, Rust |
